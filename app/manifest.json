@@ -1,0 +1,16 @@
+{
+    "name": "FormatJSON",
+    "version": 2,
+    "version_name": "FormatJSON v0.0.1",
+    "default_locale": "en",
+    "default_title": "JSON Formatter",
+    "permission": [],
+    "description": "A simple JSON Formatter",
+    "theme": {
+        "color": { "frame": "#333333" }
+    },
+    "developer": {
+        "name": "Olawoore Emmanuel Collins"
+    },
+    "author": "Olawoore Emmanuel Collins"
+}

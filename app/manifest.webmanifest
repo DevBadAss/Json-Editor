@@ -1,0 +1,13 @@
+{
+    "background_color": "#333333",
+    "color": "#aaaaaa",
+    "name": "FormatJSON",
+    "short_name": "FJ",
+    "display": "fullscreen",
+    "lang": "en-UK",
+    "orientation": "landscape-secondary",
+    "start_url": "./index.html",
+    "description": "A simple JSON Formatter",
+    "theme_color": "#333333",
+    "author": "Olawoore Emmanuel Collins"
+}
